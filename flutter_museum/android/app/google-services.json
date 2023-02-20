@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427398749186",
+    "project_id": "flutter-uas-41767",
+    "storage_bucket": "flutter-uas-41767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427398749186:android:a20520777d5c7ab28b5b1b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427398749186-reu5c3ctdpi9jhjbiqgeqo0gt3o846jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLIgY09kjCR6cwCR_p7UgTQBRQ1bMxnZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427398749186-reu5c3ctdpi9jhjbiqgeqo0gt3o846jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
